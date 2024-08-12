@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <textarea id="myInput" placeholder="Fale para preencher"> </textarea>
+   
+    <button onclick="startRecognition()">Clicar para Falar</button>
+    <p id="status"></p>
+
+    <script>
+        const inputField = document.getElementById('myInput');
+        const status = document.getElementById('status');
+
+        // Verifique se a API está disponível no navegador
+        const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        const speechRecognition = new SpeechRecognition();
+
+        function startRecognition() {
+            speechRecognition.start();
+            status.textContent = 'Ouvindo...';
+        }
+
+        speechRecognition.onresult = (event) => {
+            const transcript = event.results[0][0].transcript;
+            inputField.value = transcript;
+            status.textContent = 'Pronto!';
+        };
+
+        speechRecognition.onerror = (event) => {
+            console.error(event.error);
+            status.textContent = 'Erro ao reconhecer a fala.';
+        };
+    </script>
+</body>
+</html>
