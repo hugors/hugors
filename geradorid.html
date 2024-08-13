@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerar ID Único</title>
+</head>
+<body>
+    <h1>Gerador de ID Único</h1>
+    <button onclick="generateAndDisplayUniqueId()">Gerar ID</button>
+    <p>ID Gerado: <span id="uniqueId"></span></p>
+
+    <script>
+        function generateUniqueId() {
+            // Gera um número aleatório de 32 bits
+            const array = new Uint32Array(1);
+            // Preenche o array com valores aleatórios
+            window.crypto.getRandomValues(array);
+            // Converte o número em uma string hexadecimal de 8 caracteres
+            return array[0].toString(16).padStart(8, '0');
+        }
+
+        function generateAndDisplayUniqueId() {
+            const uniqueId = generateUniqueId();
+            document.getElementById('uniqueId').textContent = uniqueId;
+        }
+    </script>
+</body>
+</html>

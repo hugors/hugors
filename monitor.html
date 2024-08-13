@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function verificarStatusSite(url) {
+  const xhr = new XMLHttpRequest();
+  xhr.open('GET', url);
+
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      console.log(`O site ${url} está online!`);
+    } else {
+      console.error(`O site ${url} está offline! Status: ${xhr.status}`);
+    }
+  };
+
+  xhr.onerror = function() {
+    console.error(`Falha ao verificar o site ${url}`);
+  };
+
+  xhr.send();
+}
+verificarStatus()
+</script>
+<body>
+    
+</body>
+</html>
