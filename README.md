@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Criando busg desde 1990<br>📚 Atualmente estudando Java<br>🎯 Metas Java e Kotliin<br>🎲 buscando o novo</p>
+<p align="left">✨ Criando bugs desde 1990<br>📚 Atualmente estudando Java<br>🎯 Metas Java e Kotliin<br>🎲 buscando o novo</p>
 
 ###
 
