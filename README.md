@@ -19,7 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugors)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoluizrosa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugorosa/)
-[![Email](https://img.shields.io/badge/Email-hugorosa.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugorosa.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-techugoluiz%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techugoluiz@hotmail.com)
 
 ---
 
