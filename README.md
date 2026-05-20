@@ -17,14 +17,6 @@
   <img src="https://streak-stats.demolab.com/?user=hugors&theme=dark&hide_border=true&background=000000&ring=30A3DC&fire=E94D5F&currStreakLabel=E94D5F" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugors&show_icons=true&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&icon_color=30A3DC&text_color=FFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugors&layout=compact&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</p>
-
 ---
 
 ## 🚀 Sobre Mim
