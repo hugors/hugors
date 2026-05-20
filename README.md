@@ -7,14 +7,24 @@
 </p>
 
 <p align="center">
-  💼 Portfólio completo:  
+  💼 Meu portfólio completo:  
   <a href="https://hugorosa.dev.br" target="_blank">
     <strong>🌐 hugorosa.dev.br</strong>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hugors&theme=dark&hide_border=true&background=000000&ring=30A3DC&fire=E94D5F&currStreakLabel=E94D5F" />
+  <a href="https://github.com/hugors">
+    <img src="https://streak-stats.demolab.com/?user=hugors&theme=dark&hide_border=true&background=000000&ring=30A3DC&fire=E94D5F&currStreakLabel=E94D5F"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugors&show_icons=true&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&icon_color=30A3DC&text_color=FFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugors&layout=compact&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </p>
 
 ---
@@ -23,36 +33,59 @@
 
 Sou profissional de tecnologia com forte atuação em **desenvolvimento Full Stack, DevOps e automação de infraestrutura**.
 
-Atuo com sistemas corporativos críticos, garantindo **alta disponibilidade, rastreabilidade e eficiência operacional**.
+Atuo com sistemas corporativos críticos, integrando aplicações com bancos de dados, APIs e ambientes distribuídos.
 
-💡 Foco em:
+💡 Meu foco está em:
 
 - Performance e escalabilidade  
-- Segurança e auditoria de sistemas  
-- Automação de processos operacionais  
-- Ambientes containerizados (Docker) e Linux  
+- Segurança e auditoria (logs e rastreabilidade)  
+- Automação de processos  
+- Ambientes containerizados e cloud-ready  
+
+Acredito que tecnologia deve ir além do código — deve **gerar eficiência operacional e impacto real no negócio**.
 
 ---
 
-## ⚡ Experiência Técnica (Resumo)
+## 🚀 Projetos em Destaque
 
-- Desenvolvimento de aplicações web integradas a bancos de dados  
-- Integração com APIs e sistemas corporativos  
-- Estruturação de logs e auditoria (compliance)  
-- Administração de servidores Linux (Nginx / Apache)  
-- Implantação e gerenciamento com Docker e Docker Compose  
-- Troubleshooting e análise de incidentes em ambiente produtivo  
+🔹 **Sistema de Portabilidade IW+SPN**  
+Sistema corporativo para gerenciamento de portabilidade numérica  
+✔ Integração com Oracle  
+✔ Automação de processamento  
+✔ Log e auditoria para compliance  
+
+🔗 https://github.com/hugors
 
 ---
 
-## ⚡ Diferenciais
+🔹 **Sistema RDE Acadêmico**  
+Gestão completa de protocolos acadêmicos  
+✔ Workflow multiusuário (alunos, professores e secretaria)  
+✔ Controle e auditoria de ações  
+✔ Interface web moderna  
 
-- 🔐 Experiência em ambientes corporativos críticos  
-- 🧠 Perfil híbrido: Desenvolvimento + Infraestrutura + NOC  
-- 🐳 Forte atuação com Docker e automação  
-- 🗄️ Integração com Oracle e bancos relacionais  
-- 📊 Implementação de auditoria e rastreabilidade  
-- ⚙️ Automação de rotinas e processos  
+🔗 https://github.com/hugors
+
+---
+
+🔹 **Automação de Infraestrutura e Rotinas (PowerShell + Python)**  
+✔ Scripts automatizados para múltiplas máquinas  
+✔ Log e geração de relatórios  
+✔ Execução remota e padronização operacional  
+
+🔗 https://github.com/hugors
+
+---
+
+## ⚡ Diferenciais Técnicos
+
+- 🔐 Experiência com sistemas críticos e ambientes corporativos  
+- 🧠 Atuação em troubleshooting e análise de incidentes (NOC)  
+- 🐳 Deploy e gerenciamento com Docker e Docker Compose  
+- 🗄️ Integração avançada com Oracle (PL/SQL, cx_Oracle)  
+- 📊 Implementação de logs, auditoria e rastreabilidade (compliance)  
+- ⚙️ Automação de processos operacionais  
+- 🌐 Administração de servidores Linux (Nginx, Apache)  
 
 ---
 
@@ -70,7 +103,7 @@ Atuo com sistemas corporativos críticos, garantindo **alta disponibilidade, ras
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🐳 DevOps & Infra
+### 🐳 DevOps & Infraestrutura
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -86,25 +119,36 @@ Atuo com sistemas corporativos críticos, garantindo **alta disponibilidade, ras
 
 ---
 
-## ⚙️ Ferramentas
+## ⚙️ Ferramentas de Trabalho
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌐 Contato
+## 🌐 Conecte-se Comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hugors)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hugoluizrosa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/hugorosa/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:techugoluiz@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugors)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoluizrosa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugorosa/)
+[![Email](https://img.shields.io/badge/Email-techugoluiz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techugoluiz@hotmail.com)
+
+---
+
+## 🎯 Objetivo
+
+🚀 Evoluir continuamente como profissional de tecnologia, atuando em projetos que envolvam:
+
+- Sistemas escaláveis  
+- Arquiteturas modernas  
+- Automação e eficiência operacional  
+- Infraestrutura resiliente  
 
 ---
 
 <p align="center">
-  💡 "Tecnologia bem aplicada transforma processos em resultados."
+  💡 "Tecnologia bem aplicada transforma processos, pessoas e resultados."
 </p>
