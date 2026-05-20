@@ -1,154 +1,127 @@
-<h1 align="center">
-  👋 Hugo Rosa
-</h1>
+---
+
+## 🚀 Vitrine de Soluções Técnicas
 
 <p align="center">
-  <strong>Full Stack Developer • DevOps • Infrastructure & Automation</strong>
+  <em>Projetos e soluções desenvolvidas com foco em automação, infraestrutura, integração, rastreabilidade e eficiência operacional.</em>
 </p>
 
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Plataforma Web Integrada</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full%20Stack-Web%20Application-30A3DC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/API-Integration-E94D5F?style=for-the-badge" />
+      </p>
+      <p>
+        Desenvolvimento de aplicações web integradas a bancos de dados e APIs, com foco em produtividade, controle operacional e experiência do usuário.
+      </p>
+      <p>
+        <strong>Principais recursos:</strong>
+      </p>
+      <ul>
+        <li>Interface web responsiva</li>
+        <li>Integração com APIs e bancos relacionais</li>
+        <li>Controle de acesso por perfil</li>
+        <li>Logs de operação e rastreabilidade</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐳 Ambientes Dockerizados</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-Server-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+      </p>
+      <p>
+        Estruturação de ambientes isolados e reproduzíveis para desenvolvimento, homologação e produção.
+      </p>
+      <p>
+        <strong>Principais recursos:</strong>
+      </p>
+      <ul>
+        <li>Docker e Docker Compose</li>
+        <li>Reverse proxy com Nginx</li>
+        <li>Gerenciamento de serviços em Linux</li>
+        <li>Deploy padronizado e escalável</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Logs, Auditoria e Compliance</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Audit-Logs%20%26%20Traceability-E94D5F?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Security-Control-30A3DC?style=for-the-badge" />
+      </p>
+      <p>
+        Implementação de mecanismos de rastreabilidade para acompanhamento de ações, eventos, acessos e operações críticas.
+      </p>
+      <p>
+        <strong>Principais recursos:</strong>
+      </p>
+      <ul>
+        <li>Registro de ações de usuários</li>
+        <li>Logs estruturados com data/hora</li>
+        <li>Histórico de eventos operacionais</li>
+        <li>Suporte a auditoria e análise de incidentes</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=securityscorecard&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logs-FF6F00?style=flat-square&logo=elasticstack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compliance-2E7D32?style=flat-square&logo=trustpilot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Audit-6A1B9A?style=flat-square&logo=readme&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Automação Operacional</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Automation-Scripts-30A3DC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Productivity-Workflows-E94D5F?style=for-the-badge" />
+      </p>
+      <p>
+        Criação de scripts e rotinas automatizadas para reduzir esforço manual, padronizar tarefas e aumentar a eficiência operacional.
+      </p>
+      <p>
+        <strong>Principais recursos:</strong>
+      </p>
+      <ul>
+        <li>Automação com Python e PowerShell</li>
+        <li>Execução de rotinas em múltiplos ambientes</li>
+        <li>Geração de logs e relatórios</li>
+        <li>Padronização de procedimentos técnicos</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  💼 Meu portfólio completo:  
   <a href="https://hugorosa.dev.br" target="_blank">
-    <strong>🌐 hugorosa.dev.br</strong>
+    <img src="https://img.shields.io/badge/Ver%20Portf%C3%B3lio%20Completo-hugorosa.dev.br-30A3DC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hugors">
-    <img src="https://streak-stats.demolab.com/?user=hugors&theme=dark&hide_border=true&background=000000&ring=30A3DC&fire=E94D5F&currStreakLabel=E94D5F"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugors&show_icons=true&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&icon_color=30A3DC&text_color=FFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugors&layout=compact&theme=dark&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</p>
-
 ---
-
-## 🚀 Sobre Mim
-
-Sou profissional de tecnologia com forte atuação em **desenvolvimento Full Stack, DevOps e automação de infraestrutura**.
-
-Atuo com sistemas corporativos críticos, integrando aplicações com bancos de dados, APIs e ambientes distribuídos.
-
-💡 Meu foco está em:
-
-- Performance e escalabilidade  
-- Segurança e auditoria (logs e rastreabilidade)  
-- Automação de processos  
-- Ambientes containerizados e cloud-ready  
-
-Acredito que tecnologia deve ir além do código — deve **gerar eficiência operacional e impacto real no negócio**.
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 **Sistema de Portabilidade IW+SPN**  
-Sistema corporativo para gerenciamento de portabilidade numérica  
-✔ Integração com Oracle  
-✔ Automação de processamento  
-✔ Log e auditoria para compliance  
-
-🔗 https://github.com/hugors
-
----
-
-🔹 **Sistema RDE Acadêmico**  
-Gestão completa de protocolos acadêmicos  
-✔ Workflow multiusuário (alunos, professores e secretaria)  
-✔ Controle e auditoria de ações  
-✔ Interface web moderna  
-
-🔗 https://github.com/hugors
-
----
-
-🔹 **Automação de Infraestrutura e Rotinas (PowerShell + Python)**  
-✔ Scripts automatizados para múltiplas máquinas  
-✔ Log e geração de relatórios  
-✔ Execução remota e padronização operacional  
-
-🔗 https://github.com/hugors
-
----
-
-## ⚡ Diferenciais Técnicos
-
-- 🔐 Experiência com sistemas críticos e ambientes corporativos  
-- 🧠 Atuação em troubleshooting e análise de incidentes (NOC)  
-- 🐳 Deploy e gerenciamento com Docker e Docker Compose  
-- 🗄️ Integração avançada com Oracle (PL/SQL, cx_Oracle)  
-- 📊 Implementação de logs, auditoria e rastreabilidade (compliance)  
-- ⚙️ Automação de processos operacionais  
-- 🌐 Administração de servidores Linux (Nginx, Apache)  
-
----
-
-## 🧠 Stack Principal
-
-### 💻 Desenvolvimento
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🐳 DevOps & Infraestrutura
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## ⚙️ Ferramentas de Trabalho
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌐 Conecte-se Comigo
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugors)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoluizrosa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugorosa/)
-[![Email](https://img.shields.io/badge/Email-techugoluiz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techugoluiz@hotmail.com)
-
----
-
-## 🎯 Objetivo
-
-🚀 Evoluir continuamente como profissional de tecnologia, atuando em projetos que envolvam:
-
-- Sistemas escaláveis  
-- Arquiteturas modernas  
-- Automação e eficiência operacional  
-- Infraestrutura resiliente  
-
----
-
-<p align="center">
-  💡 "Tecnologia bem aplicada transforma processos, pessoas e resultados."
-</p>
