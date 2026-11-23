@@ -35,3 +35,4 @@ Na **Claro Brasil**, desenvolvo ferramentas internas em Python, automações e s
 | **Infraestrutura** | Docker, Docker Compose, Linux, Nginx, Apache e Git |
 
 <sub>Referência para a estrutura do perfil: <a href="https://github.com/felipeAguiarCode">Felipe Aguiar</a>.</sub>
+"# hugors" 
