@@ -50,4 +50,4 @@ Sou **Hugo Rosa**, desenvolvedor de software no Rio de Janeiro. Na **Claro Brasi
 
 [Atentus Cloud no Instagram](https://www.instagram.com/atentus.cloud/) · [Conecte-se no LinkedIn](https://www.linkedin.com/in/hugoluizrosa/)
 
-<sub>Estrutura inspirada no perfil de <a href="https://github.com/felipeAguiarCode">Felipe Aguiar</a>.</sub>
+
